@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A professional blog focused on Procurement insights and discussions.">
+    <title>Your Procurement Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+
+        header {
+            background-color: #007b5e;
+            color: white;
+            padding: 20px 0;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        header p {
+            margin: 0;
+            font-size: 1.2em;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .blog-post {
+            margin-bottom: 40px;
+        }
+
+        .blog-post h2 {
+            color: #007b5e;
+        }
+
+        .blog-post p {
+            line-height: 1.6;
+        }
+
+        .blog-post a {
+            color: #007b5e;
+            text-decoration: none;
+        }
+
+        .blog-post a:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #007b5e;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Procurement Insights</h1>
+    <p>Your go-to blog for professional procurement knowledge and trends</p>
+</header>
+
+<div class="container">
+    <div class="blog-post">
+        <h2>First Blog Post Title</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+        <a href="#">Read more</a>
+    </div>
+
+    <div class="blog-post">
+        <h2>Second Blog Post Title</h2>
+        <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+        <a href="#">Read more</a>
+    </div>
+
+    <div class="blog-post">
+        <h2>Third Blog Post Title</h2>
+        <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        <a href="#">Read more</a>
+    </div>
+</div>
+
+<footer>
+    &copy; 2024 Procurement Blog | All Rights Reserved
+</footer>
+
+</body>
+</html>
